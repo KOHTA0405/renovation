@@ -1,6 +1,7 @@
 black
 beautifulsoup4
 flake8
+google-auth
 gspread
 ipython
 isort
