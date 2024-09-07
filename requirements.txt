@@ -1,0 +1,12 @@
+black
+beautifulsoup4
+flake8
+gspread
+ipython
+isort
+jupyterlab
+matplotlib
+numpy
+pandas
+requests
+seaborn
