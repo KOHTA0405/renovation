@@ -1,5 +1,6 @@
 black
 beautifulsoup4
+dlt
 flake8
 google-auth
 gspread
