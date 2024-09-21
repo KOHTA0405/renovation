@@ -13,6 +13,7 @@ matplotlib
 numpy
 pandas
 pre-commit
+prefect==2.20.8
 psycopg2
 pyarrow
 requests
