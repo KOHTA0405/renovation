@@ -13,4 +13,5 @@ pandas
 pre-commit
 requests
 seaborn
+streamlit
 wikiextractor
