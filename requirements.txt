@@ -11,7 +11,9 @@ matplotlib
 numpy
 pandas
 pre-commit
+pyarrow
 requests
 seaborn
 streamlit
+sqlalchemy
 wikiextractor
