@@ -1,8 +1,10 @@
 black
 beautifulsoup4
 dlt
+dlt[bigquery]
 flake8
 google-auth
+google-cloud-bigquery-storage
 gspread
 ipython
 isort
@@ -11,6 +13,10 @@ matplotlib
 numpy
 pandas
 pre-commit
+psycopg2
+pyarrow
 requests
 seaborn
+streamlit
+SQLAlchemy
 wikiextractor
