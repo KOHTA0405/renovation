@@ -168,3 +168,6 @@ secret/*
 data
 data/*
 .python-version
+
+.dlt
+.dlt/*
