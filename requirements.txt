@@ -14,6 +14,7 @@ numpy
 pandas
 pre-commit
 prefect==2.20.8
+prefect[dbt]
 psycopg2
 pyarrow
 requests
