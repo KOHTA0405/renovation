@@ -2,6 +2,7 @@ black
 beautifulsoup4
 dlt
 dlt[bigquery]
+dlt[duckdb]
 flake8
 google-auth
 google-cloud-bigquery-storage
