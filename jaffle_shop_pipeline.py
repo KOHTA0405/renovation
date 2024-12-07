@@ -10,7 +10,9 @@ def load_entire_database() -> None:
 
     # Define the pipeline
     pipeline = dlt.pipeline(
-        pipeline_name="jaffle-shop",
+        # import_schema_path="schemas/import",
+        # export_schema_path="schemas/export",
+        pipeline_name="jaffle_shop",
         # pipelines_dir=pipelines_dir, pipelinesフォルダの出力先。pipelimeコマンドの向け先が変更できなかったので保留
         destination="bigquery",
         dataset_name="dlt_lake",
